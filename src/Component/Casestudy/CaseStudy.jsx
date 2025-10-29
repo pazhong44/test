@@ -1,6 +1,6 @@
 import React from 'react'
 import "../Casestudy/Casestudy.css"
-import Casecard from './CaseCard/Casecard'
+import Casecard from '../Casestudy/CaseCard/Casecard.jsx'
 import women from '../Casestudy/CaseCard/images/women.png'
 import bursh from '../Casestudy/CaseCard/images/brush.png'
 import { IoIosArrowForward } from "react-icons/io";
